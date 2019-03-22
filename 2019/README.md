@@ -7,11 +7,11 @@ ver los recursos usados en la carpeta llamada recursos en este mismo repositorio
 <br><br>
 
 ## Tabla de pruebas
-| #             | Nombre                | Acceso                                                            |Obtienes                   | Recursos      | Explicación
-| ------------- | -------------         | -------------                                                     | -------------             | ------------- | ------------- |
-| 1             | Caída Imperio Romano  | [Link](https://kutt.it/que-empiece-ya-que-el-publico-se-va)       | 977                        |
-| 2             | Perspectiva           | [Link](https://kutt.it/977)                                       | la-perspectiva-lo-es-todo  |
-| 3             | Esteganografía        | [Link](https://kutt.it/la-perspectiva-lo-es-todo)                 | solo-te-quedan-7-pasos-mas | 
+| #             | Nombre                | Acceso                                                            |Obtienes                  
+| ------------- | -------------         | -------------                                                     | -------------            
+| 1             | Caída Imperio Romano  | [Link](https://kutt.it/que-empiece-ya-que-el-publico-se-va)       | 977                        
+| 2             | Perspectiva           | [Link](https://kutt.it/977)                                       | la-perspectiva-lo-es-todo  
+| 3             | Esteganografía        | [Link](https://kutt.it/la-perspectiva-lo-es-todo)                 | solo-te-quedan-7-pasos-mas
 | 4             | CSV                   | [Link](https://kutt.it/solo-te-quedan-7-pasos-mas)                | hacker-mode
 | 5             | Vídeo                 | [Link](https://kutt.it/hacker-mode)                               | too-fast-too-furious-just-saying-my-friend <br> 235710293
 | 6.1           | Polibius              | [Link](https://kutt.it/too-fast-too-furious-just-saying-my-friend)| YOUAREFREEBABYRUN
