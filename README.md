@@ -12,7 +12,7 @@ en el Hunt. Además incluye todos los recursos usados.
 
 
 ## Ediciones
-* [Hunt 2019](https://github.com/DA-ETSIINF/hunt/2019)
+* [Hunt 2019](https://github.com/DA-ETSIINF/hunt/tree/master/2019)
 
 ## Buscamos gente
 ¿Quieres organizar el Hunt o el Escape Room el año que viene?
