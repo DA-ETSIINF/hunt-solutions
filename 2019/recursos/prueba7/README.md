@@ -1,0 +1,1 @@
+Pope Cling One Cent es un anagrama de Connecting People, famoso eslogan de Nokia.

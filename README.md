@@ -1,4 +1,4 @@
-# Hunt 2019
+# Hunt
 El Hunt es un CTF, es decir, es un conjunto de pruebas donde los participantes deberán
 usar su creatividad y destreza para averiguar los códigos secretos.
 El primero en lograrlo, ganará un premio. En la edición de 2019, fue un patinete
