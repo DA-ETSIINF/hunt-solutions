@@ -28,7 +28,7 @@ ver los recursos usados en la carpeta llamada recursos en este mismo repositorio
 la contraseña "Jyväskylä".
 
 ## Recursos necesarios
-En la capeta [/recursos](https://github.com/DA-ETSIINF/hunt/2019/recursos) podrás encontrar todo el material necesario para resolver el Hunt 2019
+En la capeta [/recursos](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos) podrás encontrar todo el material necesario para resolver el Hunt 2019
 
 ## Explicación de las pruebas
 Cada vez que se obtenga un código o una cadena de caracteres, se deben de añadir al final de https://kutt.it/. Ejemplo:
