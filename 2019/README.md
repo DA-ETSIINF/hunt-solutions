@@ -38,7 +38,7 @@ En el texto, la palabra "diferencia" hace referencia a la resta. Restando los a�
 
 ```1453 - 476 = 977```
 <br><br>
-Recursos en: (/recursos/prueba1)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba1]
+Recursos en: [/recursos/prueba1](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba1)
 <br>
 Link: [https://kutt.it/977](https://kutt.it/977)
 <br><br>
@@ -46,7 +46,7 @@ Link: [https://kutt.it/977](https://kutt.it/977)
 #### Prueba 2. Perspectiva.
 Girando la pantalla donde se visualiza la imagen, se puede leer: "la-perspectiva-lo-es-todo".
 <br><br>
-Recursos en:(/recursos/prueba2)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba2]
+Recursos en:[/recursos/prueba2](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba2)
 <br>
 Link: [https://kutt.it/la-perspectiva-lo-es-todo](https://kutt.it/la-perspectiva-lo-es-todo)
 <br><br>
@@ -56,7 +56,7 @@ Leyendo las primeras letras de cada frase del archivo idk.txt y leyendo de abajo
 La estatua de la imagen es Johannes Trithemius. Usando el programa stegosuite, cargamos la imagen de Trithemius y
 escribimos la contraseña: "Trithemius". Obtenemos: "solo-te-quedan-7-pasos-mas"
 <br><br>
-Recursos en:(/recursos/prueba3)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba3]
+Recursos en:[/recursos/prueba3](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba3)
 <br>
 Link: [https://kutt.it/solo-te-quedan-7-pasos-mas](https://kutt.it/solo-te-quedan-7-pasos-mas)
 <br><br>
@@ -67,7 +67,7 @@ obtendremos un fichero llamado: "result.csv", donde se puede leer: "hacker-mode"
 <br>
 Se puede ver ComputerScienceVandal.java y result.csv en: 
 <br><br>
-Recursos en:(/recursos/prueba4)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba4]
+Recursos en:[/recursos/prueba4](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba4)
 <br>
 Link: [https://kutt.it/hacker-mode](https://kutt.it/hacker-mode)
 <br><br>
@@ -81,7 +81,7 @@ El primero, el más fácil, el código son las letras que la persona muestra en 
 El segundo código es más complejo. En la canción de la segunda parte del vídeo, aumentando el tiempo un 900%, se puede
 oír: 235710293
 <br><br>
-Recursos en: (/recursos/prueba5)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba5]
+Recursos en: [/recursos/prueba5](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba5)
 <br>
 Link a 6.1: [https://kutt.it/too-fast-too-furious-just-saying-my-friend](https://kutt.it/too-fast-too-furious-just-saying-my-friend)
 <br>
@@ -94,7 +94,7 @@ Aplicando el algoritmo de descifrado de Polibius con el abecedario (sin la J ni 
 "YOUAREFREEBABYRUN". Ese link te lleva a: "troll.printf.es" donde se puede leer que tienes que volver al vídeo y buscar
 otro caminos
 <br><br>
-Recursos en: (/recursos/prueba6)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba6]
+Recursos en: [/recursos/prueba6](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba6)
 <br>
 Link: [https://kutt.it/YOUAREFREEBABYRUN](https://kutt.it/YOUAREFREEBABYRUN)
 <br><br>
@@ -110,7 +110,7 @@ Link: [https://kutt.it/ahora-sabemos-que-eres-humano](https://kutt.it/ahora-sabe
 Si escribimos un texto con un móvil con teclado numérico (22 es b, 9 es w, 7777 es s...) siguiendo los números que 
 se facilitan, se obtiene: "too-easy-for-you"
 <br><br>
-Recursos en: (/recursos/prueba7)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba7]
+Recursos en: [/recursos/prueba7](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba7)
 <br>
 Link: [https://kutt.it/too-easy-for-you](https://kutt.it/too-easy-for-you)
 <br><br>
@@ -119,7 +119,7 @@ Link: [https://kutt.it/too-easy-for-you](https://kutt.it/too-easy-for-you)
 En la cuenta de Twitter se puede leer distintos tweets. En algunos de ellos se pueden leer conversaciones de WhatsApp,
 cuya horas son años donde empezaron o acabaron guerras.
 <br><br>
-Recursos en: (/recursos/prueba8)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba8]
+Recursos en: [/recursos/prueba8](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba8)
 <br>
 Link (hay varias opciones): [https://kutt.it/guerra, guerras, 2gm, guerra-civil, segunda-guerra-mundial, guerra-de-los-100-años](https://kutt.it/guerra)
 <br><br>
@@ -129,7 +129,7 @@ Si dibujamos el contorno de la mancha, que se parece a una isla o una pata de ga
 aparecen letras del alfabeto rúnico, obtenemos una serie de letras. Traduciendo dichas letras al alfabeto latino, obtenemos:
 "has-terminado-el-entrenamiento"
 <br><br>
-Recursos en: (/recursos/prueba9)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba9]
+Recursos en: [/recursos/prueba9](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba9)
 <br>
 Link: [https://kutt.it/has-terminado-el-entrenamiento](https://kutt.it/has-terminado-el-entrenamiento)
 <br><br>
@@ -138,7 +138,7 @@ Link: [https://kutt.it/has-terminado-el-entrenamiento](https://kutt.it/has-termi
 Tenemos 4 coordenadas. Forman un polígono de 4 vértices. Formando una X con dichos vértices, se forman dos líneas que
 se cruzan en la ciudad finesa de "Jyväskylä", que es la contraseña para descomprimir el archivo _.rar
 <br><br>
-Recursos en: (/recursos/prueba10)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba10]
+Recursos en: [/recursos/prueba10](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba10)
 <br><br>
 
 #### Prueba 11. Libro.
@@ -150,7 +150,7 @@ nº PÁGINA : nº LÍNEA : nº PALABRA : nº CARÁCTER
 ```
 Con eso se obtiene: "wooow-you-did-it"
 <br><br>
-Recursos en: (/recursos/prueba11)[https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba11]
+Recursos en: [/recursos/prueba11](https://github.com/DA-ETSIINF/hunt/tree/master/2019/recursos/prueba11)
 <br>
 Link: [https://kutt.it/wooow-you-did-it](https://kutt.it/wooow-you-did-it)
 <br><br>
