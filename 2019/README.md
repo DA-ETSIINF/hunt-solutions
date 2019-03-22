@@ -24,7 +24,6 @@ ver los recursos usados en la carpeta llamada recursos en este mismo repositorio
 
 >**Notas**:<br>
 \*¹: Cualquiera de las siguientes opciones es correcta: guerra, guerras, 2gm, guerra-civil, segunda-guerra-mundial
-<br>
 \*²: Necesitas descomprimir el .zip que se encuentra al descargar los ficheros del paso 10 usando 
 la contraseña "Jyväskylä".
 
